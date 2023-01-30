@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cotato.study.SpringnAWS.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-24T06:05:59" hostname="DESKTOP-JT0OJH6" time="0.004">
+<testsuite name="com.cotato.study.SpringnAWS.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T11:15:38" hostname="DESKTOP-JT0OJH6" time="0.01">
   <properties/>
-  <testcase name="롬복_기능_테스트" classname="com.cotato.study.SpringnAWS.web.dto.HelloResponseDtoTest" time="0.004"/>
+  <testcase name="롬복_기능_테스트" classname="com.cotato.study.SpringnAWS.web.dto.HelloResponseDtoTest" time="0.01"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
